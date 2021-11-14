@@ -6,7 +6,7 @@ let hr = 0,
   sec = 0,
   min = 0;
 
-// stoptime is used to verify that the stopwatch is stopped.
+// stoptime is used to verify that the stopwatch is stopped
 let stoptime = true;
 
 function startTimer() {
